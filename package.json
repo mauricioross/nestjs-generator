@@ -16,10 +16,6 @@
             {
                 "command": "nestjs-generator.nestCode",
                 "title": "Nest Code"
-            },
-            {
-                "command": "extension.nestCode",
-                "title": "Hello World"
             }
         ],
         "menus": {
